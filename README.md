@@ -1,8 +1,8 @@
 # React + Vite⚡🚀
-<h1 className="text-4xl font-bold">npm run dev</h1>
+<h3 className="text-4xl font-bold">npm run dev</h3>
 
 # Install dependencies⚡
-<p className="text-4xl font bold">npm install</p>
+<h3 className="text-4xl font bold">npm install</h3>
 
 # Install dependencies from scratch🚀
 <p className="text-2xl font-bold">
