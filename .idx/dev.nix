@@ -24,6 +24,7 @@
       "formulahendry.auto-close-tag"
       "formulahendry.auto-complete-tag"
       "formulahendry.auto-rename-tag"
+      "zhuangtongfa.material-theme"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file

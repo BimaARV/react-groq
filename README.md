@@ -1,8 +1,13 @@
-# React + Vite
+# React + Vite⚡🚀
+npm a href="https://github.com/react-syntax-highlighter/react-syntax-highlighter" className="text-1xl font-bold"un dev
+# Install dependencies⚡
+<p className="text-4xl font bold">npm install</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install dependencies from scratch🚀
+<p className="text-2xl font-bold">
+npm create vite@latest
+    npm install
+npm install --save groq-sdk
+</p>
+<a href="https://tailwindcss.com/docs/guides/vite" className="text-1xl font-bold">install tailwind css </a>
+<a href="https://github.com/react-syntax-highlighter/react-syntax-highlighter" className="text-1xl font-bold">Install react-syntax-highlighter</a>
