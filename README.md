@@ -1,5 +1,6 @@
 # React + Vite⚡🚀
-npm a href="https://github.com/react-syntax-highlighter/react-syntax-highlighter" className="text-1xl font-bold"un dev
+<h1 className="text-4xl font-bold">npm run dev</h1>
+
 # Install dependencies⚡
 <p className="text-4xl font bold">npm install</p>
 
