@@ -1,5 +1,5 @@
 import { Groq } from "groq-sdk";
-const GROQ_API = import.meta.env.VITE_GROQ;
+const GROQ_API = process.env.VITE_GROQ;
 
 const groq = new Groq({
   apiKey: GROQ_API,
